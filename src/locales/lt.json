@@ -1,0 +1,192 @@
+{
+  "Home": "Namai",
+  "Store": "Parduotuvė",
+  "About Author": "Apie Autorių",
+  "Contacts": "Kontaktai",
+  "navbar.home": "Pradžia",
+  "navbar.store": "Parduotuvė",
+  "navbar.about": "Apie",
+  "navbar.contact": "Kontaktai",
+  "dropdown.language": "Kalba",
+  "dropdown.english": "Anglų",
+  "dropdown.french": "Prancūzų",
+  "dropdown.lithuanian": "Lietuvių",
+  "product.price": "Kaina",
+  "product.addToCart": "Pridėti į krepšelį",
+  "footer.contactUs": "Susisiekite",
+  "footer.email": "El.paštas",
+  "paintings.painting1": "AKRILINIS ABSTRAKTUS MENAS",
+  "paintings.painting2": "Jis gimė XX amžiaus pradžioje ir buvo visiškai radikalus savo laikais",
+  "paintings.painting3": "Pagrindinis abstrakcijos meno tikslas nėra pasakoti istoriją, o skatinti įsitraukimą ir vaizduotę",
+  "paintings.painting4": "Abstrakčiai menininkai naudoja įvairias technikas savo darbui kurti, maišydami tradicines priemones su eksperimentinėmis idėjomis",
+  "paintings.painting5": "Formos ir interpretacijos laisvė",
+  "singleProduct": {
+    "loading": "Įkeliama...",
+    "productNotFound": "Produktas nerastas",
+    "price": "Kaina",
+    "priceNote": "Tai tik pradinė kaina, nuo kurios galime derėtis, susisiekite su manimi asmeniškai",
+    "material": "Akrilas, gesso tekstūros, mišri technika. Drobė 100% medvilnė",
+      "products": {
+        "19": {
+          "name": "Taškas",
+          "description": "Dydis: 30*30*1.5cm",
+          "materials": "Akrilas, gesso tekstūros, mišri technika. Ant drobės"
+        },
+        "20": {
+          "name": "Labai šalta",
+          "description": "Dydis: 1 - 50*40*1.5cm / 2 - 20*50*1.5 cm",
+          "materials": "Gesso tekstūros, mišri technika ant drobės"
+        },
+        "21": {
+          "name": "Sielos integracija",
+          "description": "Dydis: 50*40cm",
+          "materials": "Akrilas, gesso tekstūros, mišri technika. Ant drobės"
+        },
+        "22": {
+          "name": "Mintys",
+          "description": "Dydis: 30*24*1.5cm",
+          "materials": "Akrilas, gesso tekstūros, mišri technika. Ant drobės"
+        },
+        "23": {
+          "name": "Indiška vasara",
+          "description": "Dydis: 50*70*1.5cm",
+          "materials": "Akrilas, gesso tekstūros, mišri technika. Ant drobės"
+        },
+        "24": {
+          "name": "Begalybės pradžia",
+          "description": "Dydis: 40*30*1.5cm",
+          "materials": "Akrilas, gesso tekstūros, mišri technika. Ant drobės"
+        },
+        "25": {
+          "name": "Fėjų šokis",
+          "description": "Dydis: 30*24*1.5cm",
+          "materials": "Akrilas, gesso tekstūros, mišri technika. Ant drobės"
+        },
+        "26": {
+          "name": "Apačioje",
+          "description": "Dydis: 50*60cm",
+          "materials": "Akrilas, gesso tekstūros, mišri technika. Ant drobės"
+        },
+        "27": {
+          "name": "Tikslas",
+          "description": "Dydis: 40*40*1.5cm",
+          "materials": "Akrilas, gesso tekstūros, mišri technika. Ant drobės"
+        },
+        "28": {
+          "name": "Viršuje",
+          "description": "Dydis: 50*60*1.5cm",
+          "materials": "Akrilas, gesso tekstūros, mišri technika. Ant drobės"
+        },
+        "29": {
+          "name": "Iš toli",
+          "description": "Dydis: 50*70*1.5cm",
+          "materials": "Akrilas, gesso tekstūros, mišri technika. Ant drobės"
+        },
+        "30": {
+          "name": "Vizija",
+          "description": "Dydis: 50*40cm",
+          "materials": "Akrilas ant drobės"
+        },
+        "31": {
+          "name": "Vandenynas",
+          "description": "Dydis: 50*70cm",
+          "materials": "Akrilas ant drobės"
+        },
+        "32": {
+          "name": "Planetos sukūrimas",
+          "description": "Dydis: 30*40cm - + 30*40cm",
+          "materials": "Akrilas ant drobės"
+        },
+        "33": {
+          "name": "Viltis",
+          "description": "Dydis: 32*41cm",
+          "materials": "Akrilas ant drobės"
+        },
+        "34": {
+          "name": "Medis",
+          "description": "Dydis: 24*30cm",
+          "materials": "Akrilas ant drobės"
+        },
+        "35": {
+          "name": "Gimimas",
+          "description": "Dydis: 50*60cm",
+          "materials": "Akrilas ant drobės"
+        },
+        "36": {
+          "name": "Be pavadinimo 4",
+          "description": "Aprašymas nėra",
+          "materials": "Akrilas ant drobės"
+        },
+        "37": {
+          "name": "Be pavadinimo 5",
+          "description": "Aprašymas nėra",
+          "materials": "Alyva ant drobės"
+        },
+        "38": {
+          "name": "Sėkmė",
+          "description": "Vieno gabalo dydis: 50*40*1.5cm / atskiras: 20*50*1.5cm",
+          "materials": "Gesso tekstūros, mišri technika ant drobės"
+        },
+        "39": {
+          "name": "Be pavadinimo 6",
+          "description": "Aprašymas nėra",
+          "materials": "Mišri technika ant drobės"
+        },
+        "40": {
+          "name": "Prieš cunamį",
+          "description": "Aprašymas nėra",
+          "materials": "Akrilas, gesso tekstūros, mišri technika. Ant drobės, triptikas"
+        },
+        "41": {
+          "name": "Be pavadinimo 8",
+          "description": "Aprašymas nėra",
+          "materials": "Akrilas ant drobės"
+        },
+        "42": {
+          "name": "Be pavadinimo 9",
+          "description": "Aprašymas nėra",
+          "materials": "Gesso ant drobės"
+        },
+        "43": {
+          "name": "Be pavadinimo 10",
+          "description": "Aprašymas nėra",
+          "materials": "Mišri technika ant drobės"
+        },
+        "44": {
+          "name": "Be pavadinimo 11",
+          "description": "Aprašymas nėra",
+          "materials": "Alyva ant drobės"
+        }
+      }    
+  },
+  "store": {
+    "title": "Parduotuvė"
+  },
+  "contact": {
+    "title": "Susisiekite",
+    "name": "VARDAS",
+    "email": "ELEKTRONINIS PAŠTAS",
+    "message": "ŽINUTĖ",
+    "submit": "Siųsti",
+    "submitting": "Siunčiama...",
+    "error": "Įvyko klaida siunčiant jūsų žinutę. Prašome bandyti dar kartą.",
+    "success": "El. laiškas sėkmingai išsiųstas!",
+    "unexpectedError": "Įvyko netikėta klaida. Prašome bandyti vėliau."
+  },
+  "product": {
+    "price": "Kaina"
+  },
+  "home.welcome": "Sveiki",
+  "home.abstract_art": "Abstraktus menas",
+  "home.abstract_art_description": "Abstraktus menas yra platus žanras, kuris atsirado XX amžiaus pradžioje, nutolstant nuo tradicinių formų ir siekiant išreikšti emocijas bei idėjas per nevaizdinius formas, spalvas ir tekstūras. Jis apima tokius stilius kaip geometrinė abstrakcija, gestų tapyba ir spalvų lauko menas, visi orientuoti į formų supaprastinimą ir spalvos bei dizaino emocinio poveikio tyrimą.",
+  "home.about_me": "Apie mane",
+  "home.about_me_description": "Aš esu Eglė, jautri ir kūrybinga moteris. Nors anksčiau maniau, kad nesu tinkama menui, 2022 m., po gilaus asmeninio netekimo, nusprendžiau pasinerti į meno terapiją. Tai pakeitė mano gyvenimą, užpildydama mano namus paveikslais ir įkvėpdama mane dalytis savo darbu su pasauliu.",
+  "home.art_voice": "„Menas turi balsą - leiskite jam kalbėti.“ ― Rochelle Carr",
+  "gallery": {
+    "home": {
+      "title": "Abstrakčiojo meno galerija | Pirkti akrilinius paveikslus",
+      "description": "Atraskite mūsų kolekciją abstrakčių akrilinių paveikslų. Unikalūs ir originalūs meno kūriniai jūsų namų ar biuro dekoravimui.",
+      "keywords": "abstraktus menas, akriliniai paveikslai, menas pardavimui, modernus menas, unikalūs meno kūriniai"
+    }
+  }
+}

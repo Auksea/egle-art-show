@@ -1,0 +1,30 @@
+.product {
+  display: inline-block;
+  margin: 5px;
+  width: 200px;
+}
+
+.image-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 100%;
+  overflow: hidden;
+}
+
+.image-container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.product h3 {
+  font-size: 25px;
+  margin: 10px 0;
+  max-height: 40px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

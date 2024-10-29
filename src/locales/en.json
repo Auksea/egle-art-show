@@ -1,0 +1,189 @@
+{
+  "Home": "Home",
+  "Store": "Store",
+  "About Author": "About Author",
+  "Contacts": "Contacts",
+  "navbar.home": "Home",
+  "navbar.store": "Store",
+  "navbar.about": "About",
+  "navbar.contact": "Contact",
+  "dropdown.language": "Language",
+  "dropdown.english": "English",
+  "dropdown.french": "French",
+  "dropdown.lithuanian": "Lithuanian",
+  "product.price": "Price",
+  "footer.contactUs": "Contact",
+  "footer.email": "Email",
+  "paintings.painting1": "ACRYLIC ABSTRACT ART",
+  "paintings.painting2": "It was born at the beginning of the 20th century and was completely radical for its time",
+  "paintings.painting3": "The main purpose of abstraction in art is not to tell a story, but to encourage involvement and imagination",
+  "paintings.painting4": "Abstract artists use a variety of techniques to create their work, mixing traditional means with more experimental ideas",
+  "paintings.painting5": "Freedom of form and interpretation",
+  "singleProduct": {
+    "loading": "Loading...",
+    "productNotFound": "Product not found",
+    "price": "Price",
+    "priceNote": "This is only the initial price from which we can negotiate, contact me personally",
+    "material": "Acrylic, gesso-textures, mixed. Canvas 100% cotton",
+      "products": {
+        "19": {
+          "name": "Dot",
+          "description": "Size: 30*30*1.5cm",
+          "materials": "Acrylic, gesso-textures, mixed. On canvas"
+        },
+        "20": {
+          "name": "Very Cold",
+          "description": "Size: 1 - 50*40*1.5cm / 2 - 20*50*1.5 cm",
+          "materials": "Gesso-textures, mixed on canvas"
+        },
+        "21": {
+          "name": "Integration of the Soul",
+          "description": "Size: 50*40cm",
+          "materials": "Acrylic, gesso-textures, mixed. On canvas"
+        },
+        "22": {
+          "name": "Thoughts",
+          "description": "Size: 30*24*1.5cm",
+          "materials": "Acrylic, gesso-textures, mixed. On canvas"
+        },
+        "23": {
+          "name": "Indian summer",
+          "description": "Size: 50*70*1.5cm",
+          "materials": "Acrylic, gesso textures, mixed. On canvas"
+        },
+        "24": {
+          "name": "The beginning of infinity",
+          "description": "Size: 40*30*1.5cm",
+          "materials": "Acrylic, gesso textures, mixed. On canvas"
+        },
+        "25": {
+          "name": "Dance of the fairies",
+          "description": "Size: 30*24*1.5cm",
+          "materials": "Acrylic, gesso textures, mixed. On canvas"
+        },
+        "26": {
+          "name": "At the bottom",
+          "description": "Size: 50*60cm",
+          "materials": "Acrylic, gesso textures, mixed. On canvas"
+        },
+        "27": {
+          "name": "Objective",
+          "description": "Size: 40*40*1.5cm",
+          "materials": "Acrylic, gesso textures, mixed. On canvas"
+        },
+        "28": {
+          "name": "Up",
+          "description": "Size: 50*60*1.5cm",
+          "materials": "Acrylic, gesso textures, mixed. On canvas"
+        },
+        "29": {
+          "name": "From afar",
+          "description": "Size: 50*70*1.5cm",
+          "materials": "Acrylic, gesso textures, mixed. On canvas"
+        },
+        "30": {
+          "name": "Vision",
+          "description": "Size: 50*40cm",
+          "materials": "Acrylic on canvas"
+        },
+        "31": {
+          "name": "The ocean",
+          "description": "Size: 50*70cm",
+          "materials": "Acrylic on canvas"
+        },
+        "32": {
+          "name": "Creation of a planet",
+          "description": "Size: 30*40cm - + 30*40cm",
+          "materials": "Acrylic on canvas"
+        },
+        "33": {
+          "name": "Hope",
+          "description": "Size: 32*41cm",
+          "materials": "Acrylic on canvas"
+        },
+        "34": {
+          "name": "Tree",
+          "description": "Size: 24*30cm",
+          "materials": "Acrylic on canvas"
+        },
+        "35": {
+          "name": "Birth",
+          "description": "Size:  50*60cm",
+          "materials": "Acrylic on canvas"
+        },
+        "36": {
+          "name": "Untitled 4",
+          "description": "No description available",
+          "materials": "Acrylic on canvas"
+        },
+        "37": {
+          "name": "Untitled 5",
+          "description": "No description available",
+          "materials": "Oil on canvas"
+        },
+        "38": {
+          "name": "Success",
+          "description": "Size in one piece: 50*40*1.5cm / separated: 20*50*1.5cm",
+          "materials": "Gesso textures, mixed on canvas"
+        },
+        "39": {
+          "name": "Untitled 6",
+          "description": "No description available",
+          "materials": "Mixed media on canvas"
+        },
+        "40": {
+          "name": "Before the tsunami",
+          "description": "No description available",
+          "materials": "Acrylic, gesso textures, mixed media. On canvas, Triptych"
+        },
+        "41": {
+          "name": "Untitled 8",
+          "description": "No description available",
+          "materials": "Acrylic on canvas"
+        },
+        "42": {
+          "name": "Untitled 9",
+          "description": "No description available",
+          "materials": "Gesso on canvas"
+        },
+        "43": {
+          "name": "Untitled 10",
+          "description": "No description available",
+          "materials": "Mixed media on canvas"
+        },
+        "44": {
+          "name": "Untitled 11",
+          "description": "No description available",
+          "materials": "Oil on canvas"
+        }
+      }    
+  },
+  "store": {
+    "title": "Store"
+  },
+  "contact": {
+    "title": "Contact",
+    "name": "NAME",
+    "email": "EMAIL",
+    "message": "MESSAGE",
+    "submit": "Submit",
+    "submitting": "Submitting...",
+    "error": "There was an error sending your message. Please try again.",
+    "success": "Email sent successfully!",
+    "unexpectedError": "There was an unexpected error. Please try again later."
+  },
+  "home.welcome": "Welcome",
+  "home.abstract_art": "Abstract art",
+  "home.abstract_art_description": "Abstract art is a broad genre that emerged in the early 20th century, moving away from traditional forms to express emotions and ideas through non-representational shapes, colors, and textures. It includes styles like geometric abstraction, gestural painting, and color field art, all focused on simplifying forms and exploring the emotional impact of color and design.",
+  "home.about_me": "About Me",
+  "home.about_me_description": "I’m Egle, a sensitive and creative woman. Though I once believed I wasn’t suited for art, in 2022, after a deep personal loss, I turned to art therapy. It transformed my life, filling my home with paintings and inspiring me to share my work with the world.",
+  "home.art_voice": "“Art has a voice - let it speak.” ― Rochelle Carr",
+  "gallery": {
+    "home": {
+      "title": "Abstract Art Gallery | Buy Acrylic Paintings",
+      "description": "Explore our collection of abstract acrylic paintings. Unique and original art pieces for your home or office decor.",
+      "keywords": "abstract art, acrylic paintings, art for sale, modern art, unique art pieces"
+    }
+  }
+}
+

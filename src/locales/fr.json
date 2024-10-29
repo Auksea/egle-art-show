@@ -1,0 +1,189 @@
+{
+  "Home": "Accueil",
+  "Store": "Boutique",
+  "About Author": "À propos de l'auteur",
+  "Contacts": "Contacts",
+  "navbar.home": "Accueil",
+  "navbar.store": "Magasin",
+  "navbar.about": "À propos",
+  "navbar.contact": "Contact",
+  "dropdown.language": "Langue",
+  "dropdown.english": "Anglais",
+  "dropdown.french": "Français",
+  "dropdown.lithuanian": "Lituanien",
+  "product.price": "Prix",
+  "product.addToCart": "Ajouter au panier",
+  "footer.contactUs": "Contactez",
+  "footer.email": "E-mail",
+  "paintings.painting1": "ART ABSTRAIT ACRYLIQUE",
+  "paintings.painting2": "Il est né au début du 20ème siècle et était complètement radical pour son époque",
+  "paintings.painting3": "Le principal objectif de l'abstraction dans l'art n'est pas de raconter une histoire, mais d'encourager l'implication et l'imagination",
+  "paintings.painting4": "Les artistes abstraits utilisent une variété de techniques pour créer leur travail, mêlant moyens traditionnels et idées plus expérimentales",
+  "paintings.painting5": "Liberté de forme et d'interprétation",
+    "singleProduct": {
+      "loading": "Chargement...",
+      "productNotFound": "Produit non trouvé",
+      "price": "Prix",
+      "priceNote": "Ceci n'est qu'un prix initial à partir duquel nous pouvons négocier, contactez-moi personnellement",
+      "material": "Acrylique, textures de gesso, mixte. Toile 100% coton",
+        "products": {
+          "19": {
+            "name": "Point",
+            "description": "Taille : 30*30*1.5cm",
+            "materials": "Acrylique, textures de gesso, mélangé. Sur toile"
+          },
+          "20": {
+            "name": "Très froid",
+            "description": "Taille : 1 - 50*40*1.5cm / 2 - 20*50*1.5 cm",
+            "materials": "Textures de gesso, mélangé sur toile"
+          },
+          "21": {
+            "name": "Intégration de l'âme",
+            "description": "Taille : 50*40cm",
+            "materials": "Acrylique, textures de gesso, mélangé. Sur toile"
+          },
+          "22": {
+            "name": "Pensées",
+            "description": "Taille : 30*24*1.5cm",
+            "materials": "Acrylique, textures de gesso, mélangé. Sur toile"
+          },
+          "23": {
+            "name": "Été indien",
+            "description": "Taille : 50*70*1.5cm",
+            "materials": "Acrylique, textures de gesso, mélangé. Sur toile"
+          },
+          "24": {
+            "name": "Le début de l'infini",
+            "description": "Taille : 40*30*1.5cm",
+            "materials": "Acrylique, textures de gesso, mélangé. Sur toile"
+          },
+          "25": {
+            "name": "Danse des fées",
+            "description": "Taille : 30*24*1.5cm",
+            "materials": "Acrylique, textures de gesso, mélangé. Sur toile"
+          },
+          "26": {
+            "name": "En Bas",
+            "description": "Taille : 50*60cm",
+            "materials": "Acrylique, textures de gesso, mélangé. Sur toile"
+          },
+          "27": {
+            "name": "Objectif",
+            "description": "Taille : 40*40*1.5cm",
+            "materials": "Acrylique, textures de gesso, mélangé. Sur toile"
+          },
+          "28": {
+            "name": "Au-dessus de",
+            "description": "Taille : 50*60*1.5cm",
+            "materials": "Acrylique, textures de gesso, mélangé. Sur toile"
+          },
+          "29": {
+            "name": "De loin",
+            "description": "Taille : 50*70*1.5cm",
+            "materials": "Acrylique, textures de gesso, mélangé. Sur toile"
+          },
+          "30": {
+            "name": "Vision",
+            "description": "Taille : 50*40cm",
+            "materials": "Acrylique sur toile"
+          },
+          "31": {
+            "name": "L'océan",
+            "description": "Taille : 50*70cm",
+            "materials": "Acrylique sur toile"
+          },
+          "32": {
+            "name": "Création de la planète",
+            "description": "Taille : 30*40cm - + 30*40cm",
+            "materials": "Acrylique sur toile"
+          },
+          "33": {
+            "name": "Espoir",
+            "description": "Taille : 32*41cm",
+            "materials": "Acrylique sur toile"
+          },
+          "34": {
+            "name": "Arbre",
+            "description": "Taille : 24*30cm",
+            "materials": "Acrylique sur toile"
+          },
+          "35": {
+            "name": "Naissance",
+            "description": "Taille : 50*60cm",
+            "materials": "Acrylique sur toile"
+          },
+          "36": {
+            "name": "Sans titre 4",
+            "description": "Pas de description disponible",
+            "materials": "Acrylique sur toile"
+          },
+          "37": {
+            "name": "Sans titre 5",
+            "description": "Pas de description disponible",
+            "materials": "Huile sur toile"
+          },
+          "38": {
+            "name": "Succès",
+            "description": "Taille en une pièce : 50*40*1.5cm / séparé : 20*50*1.5cm",
+            "materials": "Textures de gesso, mélangé sur toile"
+          },
+          "39": {
+            "name": "Sans titre 6",
+            "description": "Pas de description disponible",
+            "materials": "Médias mixtes sur toile"
+          },
+          "40": {
+            "name": "Avant le tsunami",
+            "description": "Pas de description disponible",
+            "materials": "Acrylique, textures de gesso, médias mixtes. Sur toile, triptyque"
+          },
+          "41": {
+            "name": "Sans titre 8",
+            "description": "Pas de description disponible",
+            "materials": "Acrylique sur toile"
+          },
+          "42": {
+            "name": "Sans titre 9",
+            "description": "Pas de description disponible",
+            "materials": "Gesso sur toile"
+          },
+          "43": {
+            "name": "Sans titre 10",
+            "description": "Pas de description disponible",
+            "materials": "Médias mixtes sur toile"
+          },
+          "44": {
+            "name": "Sans titre 11",
+            "description": "Pas de description disponible",
+            "materials": "Huile sur toile"
+          }
+        }      
+    },  
+  "store": {
+    "title": "Magasin"
+  },
+  "contact": {
+    "title": "Contacter",
+    "name": "NOM",
+    "email": "EMAIL",
+    "message": "MESSAGE",
+    "submit": "Envoyer",
+    "submitting": "Envoi en cours...",
+    "error": "Une erreur s'est produite lors de l'envoi de votre message. Veuillez réessayer.",
+    "success": "Email envoyé avec succès!",
+    "unexpectedError": "Une erreur inattendue s'est produite. Veuillez réessayer ultérieurement."
+  },
+  "home.welcome": "Bienvenue",
+  "home.abstract_art": "Art abstrait",
+  "home.abstract_art_description": "L'art abstrait est un large genre qui a émergé au début du XXe siècle, s'éloignant des formes traditionnelles pour exprimer des émotions et des idées à travers des formes, des couleurs et des textures non représentatives. Il comprend des styles tels que l'abstraction géométrique, la peinture gestuelle et l'art de champ de couleur, tous axés sur la simplification des formes et l'exploration de l'impact émotionnel de la couleur et du design.",
+  "home.about_me": "À propos de moi",
+  "home.about_me_description": "Je suis Egle, une femme sensible et créative. Bien que je croyais autrefois que je n'étais pas faite pour l'art, en 2022, après une profonde perte personnelle, je me suis tournée vers l'art-thérapie. Cela a transformé ma vie, remplissant ma maison de peintures et m'inspirant à partager mon travail avec le monde.",
+  "home.art_voice": "« L'art a une voix - laissez-le parler. » ― Rochelle Carr",
+  "gallery": {
+    "home": {
+      "title": "Galerie d'Art Abstrait | Acheter des Peintures Acryliques",
+      "description": "Découvrez notre collection de peintures acryliques abstraites. Des pièces d'art uniques et originales pour la décoration de votre maison ou bureau.",
+      "keywords": "art abstrait, peintures acryliques, art à vendre, art moderne, pièces d'art uniques"
+    }
+  }
+}

@@ -1,0 +1,75 @@
+.store {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 80px;
+  background-color: #f8f8f8;
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #f8f8f8;
+  width: 100%;
+  position: relative;
+  z-index: 2;
+}
+
+.headingStore {
+  font-size: 40px;
+  font-family: 'Lucida Handwriting', serif;
+  text-align: left;
+}
+
+.product {
+  font-family: 'Lucida Handwriting', serif;
+  border: 2px solid #deb887;
+  display: flex;
+  flex-direction: column;
+  margin: 5px;
+  padding: 5px;
+  position: relative;
+  text-align: end;
+  transition: transform .2s ease-in-out;
+  width: 300px;
+  margin-bottom: 80px;
+}
+
+.product:hover {
+  filter: brightness(120%);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.7);
+}
+
+.link {
+  text-decoration: none;
+  color: #333;
+}
+
+.product-details {
+  flex-grow: 1;
+}
+
+.decorative-line-store {
+  width: 90%;
+  height: 2px;
+  background-color: #976940;
+  border: none;
+  margin-bottom: 40px;
+}
+
+
+@media screen and (max-width: 800px) {
+  .products {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+}
+
