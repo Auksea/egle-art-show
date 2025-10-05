@@ -21,7 +21,7 @@ const products = [
   { id: 38, name: 'Success', price: 360, description: '50*40*1.5cm / separated: 20*50*1.5cm', materials: 'Gesso textures, mixed on canvas' },
   //{ id: 39, name: 'Untitled 6', price: 120, description: 'No description available', materials: 'Mixed media on canvas' },
   { id: 40, name: 'Before the tsunami', price: 360, description: 'No description available', materials: 'Acrylic, gesso textures, mixed media. On canvas, Triptych' },
-  { id: 41, name: 'Untitled 8', price: 120, description: 'No description available', materials: 'Acrylic on canvas' },
+  //{ id: 41, name: 'Untitled 8', price: 120, description: 'No description available', materials: 'Acrylic on canvas' },
   //{ id: 42, name: 'Untitled 9', price: 120, description: 'No description available', materials: 'Gesso on canvas' },
   //{ id: 43, name: 'Untitled 10', price: 120, description: 'No description available', materials: 'Mixed media on canvas' },
   //{ id: 44, name: 'Untitled 11', price: 120, description: 'No description available', materials: 'Oil on canvas' }
