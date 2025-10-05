@@ -1,10 +1,10 @@
 {
   "Home": "Namai",
-  "Store": "Parduotuvė",
+  "Store": "Galerija",
   "About Author": "Apie Autorių",
   "Contacts": "Kontaktai",
   "navbar.home": "Pradžia",
-  "navbar.store": "Parduotuvė",
+  "navbar.store": "Galerija",
   "navbar.about": "Apie",
   "navbar.contact": "Kontaktai",
   "dropdown.language": "Kalba",
@@ -160,7 +160,7 @@
       }    
   },
   "store": {
-    "title": "Parduotuvė"
+    "title": "Galerija"
   },
   "contact": {
     "title": "Susisiekite",

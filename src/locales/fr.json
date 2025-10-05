@@ -1,10 +1,10 @@
 {
   "Home": "Accueil",
-  "Store": "Boutique",
+  "Store": "Galerie",
   "About Author": "À propos de l'auteur",
   "Contacts": "Contacts",
   "navbar.home": "Accueil",
-  "navbar.store": "Magasin",
+  "navbar.store": "Galerie",
   "navbar.about": "À propos",
   "navbar.contact": "Contact",
   "dropdown.language": "Langue",
@@ -160,7 +160,7 @@
         }      
     },  
   "store": {
-    "title": "Magasin"
+    "title": "Galerie"
   },
   "contact": {
     "title": "Contacter",

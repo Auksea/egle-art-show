@@ -1,10 +1,10 @@
 {
   "Home": "Home",
-  "Store": "Store",
+  "Store": "Gallery",
   "About Author": "About Author",
   "Contacts": "Contacts",
   "navbar.home": "Home",
-  "navbar.store": "Store",
+  "navbar.store": "Gallery",
   "navbar.about": "About",
   "navbar.contact": "Contact",
   "dropdown.language": "Language",
@@ -159,7 +159,7 @@
       }    
   },
   "store": {
-    "title": "Store"
+    "title": "Gallery"
   },
   "contact": {
     "title": "Contact",

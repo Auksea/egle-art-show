@@ -16,15 +16,15 @@ const products = [
   { id: 33, name: 'Hope', price: 240, description: '32*41cm', materials: 'Acrylic on canvas' },
   { id: 34, name: 'Tree', price: 140, description: '24*30cm', materials: 'Acrylic on canvas' },
   { id: 35, name: 'Birth', price: 250, description: '50*60cm', materials: 'Acrylic on canvas' },
-  { id: 36, name: 'Untitled 4', price: 120, description: 'No description available', materials: 'Acrylic on canvas' },
-  { id: 37, name: 'Untitled 5', price: 120, description: 'No description available', materials: 'Oil on canvas' },
+  //{ id: 36, name: 'Untitled 4', price: 120, description: 'No description available', materials: 'Acrylic on canvas' },
+  //{ id: 37, name: 'Untitled 5', price: 120, description: 'No description available', materials: 'Oil on canvas' },
   { id: 38, name: 'Success', price: 360, description: '50*40*1.5cm / separated: 20*50*1.5cm', materials: 'Gesso textures, mixed on canvas' },
-  { id: 39, name: 'Untitled 6', price: 120, description: 'No description available', materials: 'Mixed media on canvas' },
-  { id: 40, name: 'Before the tsunami', price: 120, description: 'No description available', materials: 'Acrylic, gesso textures, mixed media. On canvas, Triptych' },
+  //{ id: 39, name: 'Untitled 6', price: 120, description: 'No description available', materials: 'Mixed media on canvas' },
+  { id: 40, name: 'Before the tsunami', price: 360, description: 'No description available', materials: 'Acrylic, gesso textures, mixed media. On canvas, Triptych' },
   { id: 41, name: 'Untitled 8', price: 120, description: 'No description available', materials: 'Acrylic on canvas' },
-  { id: 42, name: 'Untitled 9', price: 120, description: 'No description available', materials: 'Gesso on canvas' },
-  { id: 43, name: 'Untitled 10', price: 120, description: 'No description available', materials: 'Mixed media on canvas' },
-  { id: 44, name: 'Untitled 11', price: 120, description: 'No description available', materials: 'Oil on canvas' }
+  //{ id: 42, name: 'Untitled 9', price: 120, description: 'No description available', materials: 'Gesso on canvas' },
+  //{ id: 43, name: 'Untitled 10', price: 120, description: 'No description available', materials: 'Mixed media on canvas' },
+  //{ id: 44, name: 'Untitled 11', price: 120, description: 'No description available', materials: 'Oil on canvas' }
 ];
 
 export default products;
